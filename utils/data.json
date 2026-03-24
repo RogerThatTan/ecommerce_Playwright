@@ -1,0 +1,50 @@
+[
+  {
+    "gender": "Male",
+    "firstName": "KOla3321",
+    "lastName": "Anderson",
+    "date": "12",
+    "month": "6",
+    "year": "1992",
+    "email": "kola3212.anderson01@yopmail.com",
+    "company": "TechNova Inc",
+    "newsLetter": true,
+    "password": "Secure@123"
+  },
+  {
+    "gender": "Female",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "date": "25",
+    "month": "9",
+    "year": "1995",
+    "email": "emily.johnson02@yopmail.com",
+    "company": "Bright Solutions",
+    "newsLetter": false,
+    "password": "Emily@456"
+  },
+  {
+    "gender": "Male",
+    "firstName": "Christopher",
+    "lastName": "Williams",
+    "date": "3",
+    "month": "1",
+    "year": "1988",
+    "email": "chris.williams03@yopmail.com",
+    "company": "NextGen Systems",
+    "newsLetter": true,
+    "password": "Chris@789"
+  },
+  {
+    "gender": "Female",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "date": "18",
+    "month": "11",
+    "year": "1999",
+    "email": "olivia.brown04@yopmail.com",
+    "company": "Creative Labs",
+    "newsLetter": true,
+    "password": "Olivia@321"
+  }
+]
